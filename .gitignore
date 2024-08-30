@@ -1,0 +1,6 @@
+# Project Ignores
+/**/node_modules
+.serviceaccount.json
+
+# System Ignores
+/**/.DS_Store
